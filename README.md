@@ -32,7 +32,7 @@ The core focus of this project was mastering fundamental CSS skills, including:
 ### Links
 
 - Solution URL: [https://github.com/ZinThuAung-LAB/QRcode_Component.git](https://github.com/ZinThuAung-LAB/QRcode_Component.git)
-- Live Site URL: [https://zinthuaung-lab.github.io/Frontend-Mentor/](https://zinthuaung-lab.github.io/Frontend-Mentor/)
+- Live Site URL: [https://zinthuaung-lab.github.io/QRcode_Component/](https://zinthuaung-lab.github.io/QRcode_Component/)
 ## My process
 
 ### Built with
