@@ -18,21 +18,43 @@ body {
 
 .qr-container {
     width: 100%;
-    max-width: 350px;
-    padding: 20px;
+    max-width: 320px;
+    padding: 16px;
     border-radius: 16px;
     background-color: hsl(0, 0%, 100%);
     box-shadow: 0 0 4px rgba(255,255,255,0.1);
     display: flex;
     text-align: center;
     flex-direction: column;
-    gap: 15px;
-    
+    position: relative;
 }
 
 .qr-code {
-    max-width: 325px;
+    border-radius: 10px;
     width: 100%;
     height: auto;
-    border-radius: 15px;
+    margin-bottom: 24px;
+}
+
+h2 {
+    color: #1F314F;
+    font-size: 22px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    margin-bottom: 16px;
+}
+
+p {
+    color: #68778D;
+    font-size: 15px;
+    line-height: 1.4;
+    letter-spacing: 0.2px;
+    margin-bottom: 20px;
+}
+
+.attribution {
+    margin-top: auto;
+    font-size: 12px;
+    color: #68778D;
+    text-align: center;
 }
